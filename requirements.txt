@@ -1,0 +1,2 @@
+# Python 3.10+. The preprocessing method uses only the standard library.
+# No third-party packages are required.

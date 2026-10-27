@@ -1,0 +1,5 @@
+id,artifact_type,raw_artifact
+1,file,C:\Users\Example\Downloads\sample.exe
+2,registry,HKCU\Software\Example\Run
+3,network,192.0.2.10:443
+4,process,cmd.exe /c echo example
